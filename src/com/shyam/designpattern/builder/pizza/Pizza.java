@@ -1,4 +1,4 @@
-package com.shyam.designpattern.builder.pizza.veg;
+package com.shyam.designpattern.builder.pizza;
 
 import com.shyam.designpattern.builder.Item;
 

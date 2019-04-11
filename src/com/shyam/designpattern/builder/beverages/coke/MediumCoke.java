@@ -4,7 +4,7 @@ public class MediumCoke extends Coke {
 
 	@Override
 	public String name() {
-		return "300ml Coke";
+		return "750ml Coke";
 	}
 
 	@Override
@@ -14,6 +14,6 @@ public class MediumCoke extends Coke {
 
 	@Override
 	public float price() {
-		return 25.0f;
+		return 45.0f;
 	}
 }

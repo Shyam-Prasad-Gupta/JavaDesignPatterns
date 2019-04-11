@@ -1,7 +1,5 @@
 package com.shyam.designpattern.builder.pizza.nonveg;
 
-import com.shyam.designpattern.builder.pizza.veg.NonVegPizza;
-
 public class ExtraLargeNonVegPizza extends NonVegPizza {
 
 	@Override
@@ -11,7 +9,7 @@ public class ExtraLargeNonVegPizza extends NonVegPizza {
 
 	@Override
 	public String size() {
-		return "Small Pizza";
+		return "Extra Large Pizza";
 	}
 
 	@Override
